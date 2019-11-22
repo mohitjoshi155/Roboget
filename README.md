@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Mirinsoft/Roboget" target="_blank">
-<img align="center" alt="Roboget" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/roboget.png" width="150" height="150" />
+<img align="center" alt="Roboget" src="https://github.com/Mirinsoft/Roboget/raw/master/roboget.png" width="150" height="150" />
 </a>
 </p>
 
