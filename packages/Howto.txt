@@ -1,0 +1,45 @@
+
+==========================================================================
+	Roboget - Packages engine v0.1.2 (last updated November/24/2019)
+==========================================================================
+
+
+Supported sections
+----------------------
+
+
+[Info]
+		This section provides Information only
+
+----------------------------------------------------------------------------------------------------------
+
+[Links] 
+		All links goes to the [Links] section
+
+----------------------------------------------------------------------------------------------------------
+
+Supported commands
+----------------------
+
+
+GetFile: 
+		Link1=GetFile|http://www.imirin.com/files/36/Roboget/47/Roboget.zip|P
+		
+		Supported parameter: 
+		|P for setting the PRIOR/Default Browser download
+		|D for setting download in a DIRECT download
+		|M for setting a Mirror
+----------------------------------------------------------------------------------------------------------
+GetPortable: 
+		|P for setting the PRIOR/Default Browser download
+		|D for setting download in a DIRECT download
+		|M for setting a Mirror
+----------------------------------------------------------------------------------------------------------
+Detect: 
+		Link1=Detect|%AppData%\Example App\Configuration\My Software.exe
+		Optional you can use the Detect command, to check wheter an App is Installed
+----------------------------------------------------------------------------------------------------------
+
+https://www.mirinsoft.com
+
+
