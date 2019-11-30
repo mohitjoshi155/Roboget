@@ -1,0 +1,17 @@
+[Info]
+Name=
+Ver=
+About=
+Dev=Mirinsoft
+DevURL=https://
+WinVer=Compatible with 64-bit Windows 7 or later.
+64BitLink=Yes
+BetaLink=No
+TorrentLink=No
+SizeLink=~ 1 Mb
+
+[Links]
+Link1=GetFile|https://PriorLink|P
+Link2=GetFile|https://DirectLink|D
+Link3=GetFile|https://MirrorLink|M
+Link4=GetPortable|https://PortableLink
