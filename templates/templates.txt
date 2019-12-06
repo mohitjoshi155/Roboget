@@ -1,4 +1,5 @@
-;To enable this tempalte, just copy and replace the existing [Template] section in "roboget-settings.txt" file with follwing code
+;To enable this template, just copy and replace the existing [Template] section in "roboget-settings.txt" file with follwing code.
+;ONLY Supported with v0.4.4 rc2 and above.
 
 ;Norton Commander 
 [Template]
