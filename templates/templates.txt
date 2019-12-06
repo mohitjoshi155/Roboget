@@ -1,0 +1,18 @@
+;To enable this tempalte, just copy and replace the existing [Template] section in "roboget-settings.txt" file with follwing code
+
+;Norton Commander 
+[Template]
+BackColor=0402AC
+FontColor=30DCFC
+FontColorLight=FCFE64
+HamburgerMenu=4BDEF3
+AddPackage=0F0F0F
+AddPackageFontColor=4BDEF3
+NavTop=0F0F0F
+NavLeft=0402AC
+NavLeftFontColor=45FEFC
+LinkFontColor=FCFE54
+Divider=54FEFC
+Footer=000000
+FooterFontColor=54FEFC
+Settings=edebe9
