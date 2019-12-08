@@ -25,6 +25,7 @@ Footer=000000
 FooterFontColor=54FEFC
 Settings=EDEBE9
 ```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-alien.png)
 
 Alien
 ---
