@@ -7,7 +7,7 @@ You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or
 Templates
 ---
 ```
-#### Norton Commander 
+Norton Commander 
 [Template]
 BackColor=0402AC
 FontColor=30DCFC
@@ -24,7 +24,7 @@ Footer=000000
 FooterFontColor=54FEFC
 Settings=EDEBE9
 
-;Alien
+Alien
 [Template]
 BackColor=000000
 FontColor=FFFFFF
@@ -41,7 +41,7 @@ Footer=333333
 FooterFontColor=6CC655
 Settings=EDEBE9
 
-;Dark Knight
+Dark Knight
 [Template]
 BackColor=3A3A3A
 FontColor=FFFFFF
