@@ -2,7 +2,7 @@
 To enable a template, just copy and replace the existing [Template] section in "roboget-settings.txt" file with follwing code.
 You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or just open Roboget > Hamburger menu > Advanced settings 
 
-### ONLY Supported with v0.4.4 rc2 and above.
+#### ONLY Supported with v0.4.4 rc2 and above.
 
 Templates
 ---
