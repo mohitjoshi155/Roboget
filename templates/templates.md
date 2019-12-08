@@ -66,3 +66,24 @@ FooterFontColor=FFFFFF
 Settings=D4145A
 ```
 ![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-dark_knight.png)
+
+Open Water
+---
+```
+[Template]
+BackColor=E9EBEE
+FontColor=000000
+FontColorLight=999999
+HamburgerMenu=000000
+AddPackage=E9EBEE
+AddPackageFontColor=000000
+NavTop=4DC8F6
+NavLeft=E9EBEE
+NavLeftFontColor=000000
+LinkFontColor=1D79AD
+Divider=000000
+Footer=2B2B2B
+FooterFontColor=999999
+Settings=39BDEE
+```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-open_water.png)
