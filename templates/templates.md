@@ -4,10 +4,9 @@ You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or
 
 ### ONLY Supported with v0.4.4 rc2 and above.
 
-Log
+Templates
 ---
 ```
-
 ;Norton Commander 
 [Template]
 BackColor=0402AC
@@ -58,6 +57,5 @@ Divider=1D1D1D
 Footer=1D1D1D
 FooterFontColor=FFFFFF
 Settings=D4145A
-
 
 ```
