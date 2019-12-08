@@ -4,10 +4,11 @@ You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or
 
 #### ONLY Supported with v0.4.4 rc2 and above.
 
-Templates
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-nortoncom.png)
+
+Norton Commander 
 ---
 ```
-Norton Commander 
 [Template]
 BackColor=0402AC
 FontColor=30DCFC
@@ -23,10 +24,11 @@ Divider=54FEFC
 Footer=000000
 FooterFontColor=54FEFC
 Settings=EDEBE9
-
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-nortoncom.png)
+```
 
 Alien
+---
+```
 [Template]
 BackColor=000000
 FontColor=FFFFFF
@@ -42,8 +44,11 @@ Divider=3F7331
 Footer=333333
 FooterFontColor=6CC655
 Settings=EDEBE9
+```
 
 Dark Knight
+---
+```
 [Template]
 BackColor=3A3A3A
 FontColor=FFFFFF
@@ -59,5 +64,4 @@ Divider=1D1D1D
 Footer=1D1D1D
 FooterFontColor=FFFFFF
 Settings=D4145A
-
 ```
