@@ -1,0 +1,15 @@
+[Info]
+Name=Cleanmgr+
+Ver=1.2.6.756 test
+About=Cleanmgr+ is a portable app that builds upon the Microsoft Disk Clean-up Tool (Cleanmgr.exe) by adding additional features and deleting more junk than the Disk Clean-up Tool.
+Dev=Mirinsoft
+DevURL=http://www.mirinsoft.com
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+SizeLink=~ 200 Kb
+
+[Variables]
+Url1=http://www.imirin.com/files/16/Cleanmgr/1/Cleanmgr.zip
+
+[Links]
+Link1=GetPortable|%Url1%|D
+Link2=GetPortable|https://github.com/Mirinsoft/CleanmgrPlus/releases|M
