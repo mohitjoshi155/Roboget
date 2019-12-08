@@ -4,8 +4,6 @@ You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or
 
 #### ONLY Supported with v0.4.4 rc2 and above.
 
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-nortoncom.png)
-
 Norton Commander 
 ---
 ```
@@ -25,7 +23,7 @@ Footer=000000
 FooterFontColor=54FEFC
 Settings=EDEBE9
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-alien.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-nortoncom.png)
 
 Alien
 ---
@@ -46,6 +44,7 @@ Footer=333333
 FooterFontColor=6CC655
 Settings=EDEBE9
 ```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-alien.png)
 
 Dark Knight
 ---
