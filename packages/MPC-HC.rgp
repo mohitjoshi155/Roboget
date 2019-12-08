@@ -1,0 +1,15 @@
+[Info]
+Name=MPC-HC (Media Player Classic)
+Ver=1.7.13
+About=MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback. 
+Dev=Gabest
+DevURL=https://mpc-hc.org/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20Win32/MPC-HC_v1.7.13_x86/MPC-HC.1.7.13.x86.exe|D
+Link2=GetFile|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20x64/MPC-HC_v1.7.13_x64/MPC-HC.1.7.13.x64.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/media_player_classic_home_cinema,1.html|M
+Link4=GetPortable|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20Win32/MPC-HC_v1.7.13_x86/MPC-HC.1.7.13.x86.zip|D
+Link5=GetPortable|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20x64/MPC-HC_v1.7.13_x64/MPC-HC.1.7.13.x64.zip|D
