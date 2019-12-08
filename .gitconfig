@@ -1,0 +1,2 @@
+$ git config --global core.autocrlf true
+# Configure Git on Windows to properly handle line endings
