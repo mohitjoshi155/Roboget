@@ -2,6 +2,12 @@
 ;You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or just open Roboget > Hamburger menu > Advanced settings 
 ;ONLY Supported with v0.4.4 rc2 and above.
 
+Log
+---
+```
+<FULL LOG>
+```
+
 ;Norton Commander 
 [Template]
 BackColor=0402AC
