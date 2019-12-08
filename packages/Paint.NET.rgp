@@ -1,0 +1,28 @@
+[Info]
+Name=Paint.NET
+Ver= 4.2.5
+About=Paint.NET is image and photo manipulation software designed to be used on computers that run Windows. It supports layers, unlimited undo, special effects, and a wide variety of useful and powerful tools. It started development as an undergraduate college senior design project mentored by Microsoft, and is currently being maintained by some of the alumni that originally worked on it. Originally intended as a free replacement for the MS Paint software that comes with Windows, it has grown into a powerful yet simple tool for photo and image editing. 
+Dev=paint.net
+DevURL=http://www.getpaint.net
+WinVer=Compatible with Windows 10 (version 1607 "Anniversary Update" or newer) or Windows 8.1
+
+[Links]
+Link1=GetFile|https://www.dotpdn.com/files/paint.net.4.2.5.install.zip|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/paint_net,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
