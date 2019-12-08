@@ -65,3 +65,4 @@ Footer=1D1D1D
 FooterFontColor=FFFFFF
 Settings=D4145A
 ```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-dark_knight.png)
