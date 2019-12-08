@@ -35,3 +35,20 @@ Divider=3F7331
 Footer=333333
 FooterFontColor=6CC655
 Settings=EDEBE9
+
+;Dark Knight
+[Template]
+BackColor=3A3A3A
+FontColor=FFFFFF
+FontColorLight=D4145A
+HamburgerMenu=FFFFFF
+AddPackage=1D1D1D
+AddPackageFontColor=D4145A
+NavTop=1D1D1D
+NavLeft=1D1D1D
+NavLeftFontColor=FFFFFF
+LinkFontColor=FFFFFF
+Divider=1D1D1D
+Footer=1D1D1D
+FooterFontColor=FFFFFF
+Settings=D4145A
