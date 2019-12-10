@@ -1,5 +1,5 @@
 [Info]
-Name=IObit Uninstaller
+Name=IObit Uninstaller test
 Ver=Latest
 About=IObit Uninstaller 8 is a perfect software uninstall tool. It provides an easy and secure way to remove unnecessary programs, Windows apps, Universal Windows Platform (UWP) apps, malicious or Ads plugins, giving you a clean PC and a secure & smooth online surfing experience.
 Dev=IObit
@@ -9,19 +9,3 @@ WinVer=Compatible with all Windows versions.
 [Links]
 Link1=GetFile|http://update.iobit.com/dl/iobituninstaller.exe|D
 Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/iobit_uninstaller,1.html|M
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
