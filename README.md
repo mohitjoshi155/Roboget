@@ -25,7 +25,7 @@
 <h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
 
 ![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
-*Custom template file*
+*Custom [template](https://github.com/Mirinsoft/Roboget/blob/master/templates/templates.md)*
 
 # You can just call me robo. I want to simplify your downloads!
 
