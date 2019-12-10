@@ -38,7 +38,7 @@ Features
 * Download multiple apps at once
 * Integrated Wget, cURL and JDownloader support
 * Simple scripting engine for adding custom packages
-* Community updated packages
+* Packages updated on GitHub
 * Modern and familiar UI, with [template support]
 * Small footprint. No installation required.
 * Portable
