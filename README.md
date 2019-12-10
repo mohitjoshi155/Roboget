@@ -31,6 +31,19 @@
 
 Roboget is a free and portable package Manager for Windows 10, 8.1 and 8 with focus on safe and direct download links. Roboget acts also as a GUI for Wget and cURL. Beside this also the external download manager JDownloader can be integrated to intercept download links from Roboget.
 
+Features
+--------
+* Automating and direct downloading of apps
+* No need to hunt for a download of a program or the developer's homepage anymore
+* Download multiple apps at once
+* Integrated Wget, cURL and JDownloader support
+* Simple scripting engine for adding custom packages
+* Community updated packages
+* Modern and familiar UI, with [template support]
+* Small footprint. No installation required.
+* Portable
+* 100% Free Software ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
 # Contribute to Roboget!
 Create packages or keep the [current packages up to date](https://github.com/Mirinsoft/Roboget/blob/master/packages/)
 
