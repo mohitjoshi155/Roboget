@@ -39,7 +39,7 @@ Features
 * Integrated Wget, cURL and JDownloader support
 * Simple scripting engine for adding custom packages
 * Packages updated on GitHub
-* Modern and familiar UI, with [template support]
+* Modern and familiar UI, with [template support](https://github.com/Mirinsoft/Roboget/blob/master/templates/templates.md)
 * Small footprint. No installation required.
 * Portable
 * 100% Free Software ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
