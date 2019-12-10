@@ -1,4 +1,4 @@
-# How to change the Rooboget template?
+# How to change the Roboget template?
 To enable a template, just copy and replace the existing [Template] section in "roboget-settings.txt" file with following code.
 You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or just open Roboget > Hamburger menu > Advanced settings 
 
