@@ -57,6 +57,7 @@ HamburgerMenu=FFFFFF
 AddPackage=1D1D1D
 AddPackageFontColor=D4145A
 NavTop=1D1D1D
+NavTopFontColor=FFFFFF
 NavLeft=1D1D1D
 NavLeftFontColor=FFFFFF
 LinkFontColor=FFFFFF
