@@ -1,0 +1,15 @@
+[Info]
+Name=Everything
+Ver=1.4.1.935
+About=Everything is a desktop search utility for Windows that can rapidly find files and folders by name. 
+Dev=David Carpenter
+DevURL=https://www.voidtools.com
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe|D
+Link2=GetFile|https://www.voidtools.com/Everything-1.4.1.935.x64-Setup.exe|RETURN
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/everything,1.html|M
+Link4=GetPortable|https://www.voidtools.com/Everything-1.4.1.935.x86.zip|D
+Link5=GetPortable|https://www.voidtools.com/Everything-1.4.1.935.x64.zip|D

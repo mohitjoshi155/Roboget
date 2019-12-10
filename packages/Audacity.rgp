@@ -1,0 +1,28 @@
+[Info]
+Name=Audacity
+Ver=2.3.2
+About=Audacity is a free audio editor that can record sounds, play sounds, import and export WAV, AIFF, and MP3 files, and more. Use it to edit your sounds using Cut, Copy, and Paste (with unlimited Undo), mix tracks, or apply effects to your recordings. It also has a built-in amplitude envelope editor, a customizable spectrogram mode, and a frequency analysis window for audio analysis applications. Built-in effects include Bass Boost, Wahwah, and Noise Removal, and it also supports VST plug-in effects.
+Dev=Dominic Mazzoni
+DevURL=https://www.audacityteam.org
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.fosshub.com/Audacity.html?dwl=audacity-win-2.3.2.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/audacity,1.html|M
+Link3=GetPortable|https://www.fosshub.com/Audacity.html?dwl=audacity-2.3.2.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

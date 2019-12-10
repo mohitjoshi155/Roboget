@@ -1,0 +1,27 @@
+[Info]
+Name=IrfanView
+Ver=Latest
+About=IrfanView is a fast, simple freeware image viewer and editor that supports all major graphic formats, including BMP, DIB, JPEG, GIF, animated GIF, PNG, PCX, multipage TIFF, TGA, and more. In addition, it features drag-and-drop support, directory viewing, TWAIN support, slide shows, batch conversion, and modifications such as color depth, crop, blur, and sharpen.
+Dev=Irfan Skiljan
+DevURL=http://www.irfanview.com
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://www.irfanview.com/main_download_engl.htm|P
+Link2=GetFile|https://www.irfanview.com/64bit.htm
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/irfanview,1.html|M
+Link4=GetFile|https://www.majorgeeks.com/mg/getmirror/irfanview_64,1.html|M64
+
+
+
+
+
+
+
+
+
+
+
+
+

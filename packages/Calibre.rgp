@@ -1,0 +1,34 @@
+[Info]
+Name=Calibre
+Ver=Latest
+About=Calibre's features include: library management; format conversion (all major ebook formats); syncing to e-book reader devices; fetching news from the Web and converting it into ebook form; viewing many different e-book formats, giving you access to your book collection over the internet using just a browser.
+Dev=Kovid Goyal
+DevURL=https://calibre-ebook.com/
+WinVer=Compatible with 64-bit Windows 7 or later.
+64BitLink=Yes
+SizeLink=~ 100.0 Mb
+
+[Links]
+Link1=GetFile|http://status.calibre-ebook.com/dist/win32|P
+Link2=GetFile|http://status.calibre-ebook.com/dist/win64
+Link3=GetFile|https://www.majorgeeks.com/files/details/calibre.html|M
+Link4=GetPortable|http://status.calibre-ebook.com/dist/portable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

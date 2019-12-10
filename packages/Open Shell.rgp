@@ -1,0 +1,28 @@
+[Info]
+Name=Open Shell
+Ver=Latest
+About=Open Shell is a fork of the popular discontinued Classic Shell program for Windows that may restore a classic Start Menu, Explorer and Internet Explorer shell on the system.
+Dev=Ivo Beltchev (Originally Classic Shell)
+DevURL=https://open-shell.github.io/Open-Shell-Menu/
+WinVer=Compatible with Windows 7, 8, 8.1, 10
+
+[Links]
+Link1=GetFile|https://github.com/Open-Shell/Open-Shell-Menu/releases|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/classic_start,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

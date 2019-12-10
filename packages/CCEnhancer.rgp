@@ -1,0 +1,35 @@
+[Info]
+Name=CCEnhancer
+Ver=Latest
+About=CCEnhancer is a small tool which adds support for over 1,000 new programs into the popular program CCleaner. The tool uses the winapp2.ini system built into CCleaner to easily add new rules and definitions for programs. 
+Dev=SingularLabs
+DevURL=https://singularlabs.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://singularlabs.com/download/13238|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/ccenhancer,1.html|M
+Link3=GetPortable|https://singularlabs.com/download/10320|P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

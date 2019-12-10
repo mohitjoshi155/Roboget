@@ -1,0 +1,29 @@
+[Info]
+Name=Thunderbird
+Ver=68.2.2
+About=Mozilla Thunderbird is a free and open-source, cross-platform email client, news client, RSS, and chat client developed by the Mozilla Foundation. 
+Dev=Mozilla Foundation
+DevURL=https://www.thunderbird.net/
+WinVer=Compatible with all Windows versions.
+BetaLink=Yes
+
+[Links]
+Link1=GetFile|https://download.mozilla.org/?product=thunderbird-68.2.2-SSL&os=win&lang=en-US|P
+Link2=GetFile|https://www.majorgeeks.com/files/details/mozilla_thunderbird_beta.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+[Info]
+Name=Discord
+Ver=Latest
+About=Discord is a proprietary freeware VoIP application and digital distribution platform designed for video gaming communities, that specializes in text, image, video and audio communication between users in a chat channel
+Dev=Discord Inc.
+DevURL=https://discordapp.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://discordapp.com/api/download?platform=win|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/jdownloader,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

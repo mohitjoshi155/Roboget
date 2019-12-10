@@ -1,0 +1,29 @@
+[Info]
+Name=NirLauncher
+Ver=1.23.6
+About=NirLauncher is a package of more than 200 portable freeware utilities for Windows, all of them developed for NirSoft Web site during the last few years.
+Dev=NirSoft
+DevURL=https://launcher.nirsoft.net/downloads/index.html
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetPortable|https://launcher.nirsoft.net/downloads/index.html|P
+Link2=GetPortable|https://www.majorgeeks.com/mg/getmirror/nirlauncher,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

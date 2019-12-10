@@ -1,0 +1,11 @@
+[Info]
+Name=AnyDesk
+Ver=Latest
+About=Connect to a computer remotely, be it from the other end of the office or halfway around the world. AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
+Dev=AnyDesk Software GmbH
+DevURL=https://anydesk.com
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://download.anydesk.com/AnyDesk.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/anydesk,1.html|M

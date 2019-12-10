@@ -1,0 +1,11 @@
+[Info]
+Name=AIMP
+Ver=4.60 Build 2156
+About=AIMP is an advanced freeware multimedia player that includes an audio converter, recorder, and tag editor.
+Dev=AIMP
+DevURL=http://www.aimp.ru
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://www.aimp.ru/?do=download&os=windows|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/aimp,1.html|M

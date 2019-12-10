@@ -1,0 +1,12 @@
+[Info]
+Name=AdwCleaner
+Ver=8.0
+About=AdwCleaner is a program that searches for and deletes Adware, Toolbars, Potentially Unwanted Programs (PUP), and browser Hijackers from your computer. By using AdwCleaner you can easily remove many of these types of programs for a better user experience on your computer and while browsing the web.
+Dev=Malwarebytes
+DevURL=https://www.malwarebytes.com/adwcleaner/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://toolslib.net/downloads/finish/1-adwcleaner|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/adwcleaner,1.html|M
+

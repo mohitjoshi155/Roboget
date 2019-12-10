@@ -1,0 +1,28 @@
+[Info]
+Name=HandBrake 
+Ver=1.3.0
+About=HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video transcoder for converting video from nearly any format to a selection of modern, widely supported codecs.
+Dev=Eric "titer" Petit
+DevURL=https://handbrake.fr/
+WinVer=Compatible with Windows 7, 8.1 and 10.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://handbrake.fr/rotation.php?file=HandBrake-1.3.0-x86_64-Win_GUI.exe|P
+Link2=GetPortable|https://handbrake.fr/rotation.php?file=HandBrake-1.3.0-x86_64-Win_GUI.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

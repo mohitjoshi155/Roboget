@@ -1,0 +1,24 @@
+[Info]
+Name=KeePass Password Safe
+Ver=Latest
+About=KeePass Password Safe is a free and open-source password manager primarily for Windows. 
+Dev=Dominik Reichl
+DevURL=https://keepass.info
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+
+[Links]
+Link1=GetFile|https://sourceforge.net/projects/keepass/files/latest/download|P
+Link2=GetPortable|https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.43/KeePass-2.43.zip/download
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/keepass_password_safe,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+

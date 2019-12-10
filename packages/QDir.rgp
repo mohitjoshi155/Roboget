@@ -1,0 +1,29 @@
+[Info]
+Name=Q-Dir
+Ver=Latest
+About=Q-Dir is a great alternative file manager for Windows with a amazing Quadro-View technique.
+Dev=Nenad Hrg
+DevURL=https://www.softwareok.com
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.softwareok.com/Download/Q-Dir_Installer.zip|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/q_dir,1.html|M
+Link3=GetPortable|https://www.softwareok.com/Download/Q-Dir_Portable.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

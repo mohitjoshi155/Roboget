@@ -1,0 +1,28 @@
+[Info]
+Name=Dropbox
+Ver=Latest
+About=Dropbox is a file hosting service that offers cloud storage, file synchronization, personal cloud, and client software. 
+Dev=Dropbox, Inc.
+DevURL=https://www.dropbox.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.dropbox.com/download?os=win|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/dropbox,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

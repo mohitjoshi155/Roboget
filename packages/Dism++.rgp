@@ -1,0 +1,11 @@
+[Info]
+Name=Dism++
+Ver=10.1.1000.100
+About=DISM++ is a utility for advanced users to clean, slim, backup, update or recover your Windows operating system.Deployment Image Servicing and Management (DISM.exe) is a command-line tool that can be used to service a Windows image or to prepare a Windows Preinstallation Environment (Windows PE) image. Dism++ does not depend on Microsoft DISM and is based directly on the lower-level CBS (Component Based Servicing Reference). Essentially it adds a Graphical User Image (GUI) to what most know as DISM to make it easier for the end user to use.
+Dev=Chuyu Team
+DevURL=http://www.chuyu.me/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetPortable|http://cdn.chuyu.me/Dism++10.1.1000.100_2d2bf466baca088c4b35248f5a7316f4e00cac0b.zip|D
+Link2=GetPortable|http://m.majorgeeks.com/mg/getmirror/dism,1.html|M

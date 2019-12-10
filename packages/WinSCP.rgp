@@ -1,0 +1,14 @@
+[Info]
+Name=WinSCP
+Ver=5.15.9
+About=WinSCP is a popular SFTP client and FTP client for Microsoft Windows! Copy file between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3.
+Dev=Martin Prikryl
+DevURL=https://winscp.net
+WinVer=Compatible with all Windows versions.
+SizeLink=~ 10 Mb
+
+[Links]
+Link1=GetFile|https://winscp.net/download/WinSCP-5.15.9-Setup.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/winscp,1.html|M
+Link3=GetPortable|https://winscp.net/download/WinSCP-5.15.9-Portable.zip|D
+Link4=GetPortable|https://www.majorgeeks.com/mg/getmirror/winscp_portable,1.html|M

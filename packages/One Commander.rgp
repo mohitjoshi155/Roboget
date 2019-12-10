@@ -1,0 +1,30 @@
+[Info]
+Name=One Commander
+Ver=Latest
+About=One Commander is file manager for Microsoft Windows with improved functionality, re-imagined user interface and experience of navigating filesystem and manipulating files. It features Windows 10 look and feel, Dual-Pane Layout + Columns Layout. It is running on .NET 4.6 framework and WPF.
+Dev=Leanterface Inc.
+DevURL=http://onecommander.com/
+WinVer=Compatible with Windows 7, 8.x or 10.
+WinStoreLink=Yes
+
+[Links]
+Link1=GetFile|http://onecommander.com/OneCommanderLatest.zip|D
+Link2=GetPortable|http://onecommander.com/OneCommanderPortable.zip|D
+Link3=GetFile|https://www.microsoft.com/store/apps/9NBLGGH4S79B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

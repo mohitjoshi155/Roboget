@@ -1,0 +1,26 @@
+[Info]
+Name=TeraCopy 
+Ver=Latest
+About=TeraCopy is a file transfer utility designed as an alternative for the built-in Windows Explorer file transfer feature. Its focus is data integrity, file transfer reliability and the ability to pause or resume file transfers.
+Dev=Code Sector
+DevURL=http://codesector.com/teracopy
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://codesector.com/files/teracopy.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/teracopy,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

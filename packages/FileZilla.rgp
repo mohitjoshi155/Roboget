@@ -1,0 +1,26 @@
+[Info]
+Name=FileZilla
+Ver=Latest
+About=FileZilla is powerful Open Source FTP/SFTP client with many features. It includes a site manager to store all your connection details and logins as well as an Explorer style interface that shows the local and remote folders and can be customized independently. The program offers support for firewalls and proxy connections as well as SSL and Kerberos GSS security. udio analysis applications. Built-in effects include Bass Boost, Wahwah, and Noise Removal, and it also supports VST plug-in effects.
+Dev=Tim Kosse
+DevURL=https://filezilla-project.org
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://filezilla-project.org/download.php?show_all=1|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/filezilla,1.html|M
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/filezilla_64_bit,1.html|M64
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+[Info]
+Name=Mozilla Firefox
+Ver=Latest
+About=Mozilla Firefox is a free and open source Web browser descended from the Mozilla Application Suite and managed by Mozilla Corporation. Firefox is the second most widely used browser. To display web pages, Firefox uses the Gecko layout engine, which implements most current web standards in addition to several features that are intended to anticipate likely additions to the standards.
+Dev=Mozilla Foundation
+DevURL=https://www.mozilla.org
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Task1=Detect|HKEY_CURRENT_USER\Software\Mozilla\Firefox
+Link1=GetFile|https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win&lang=en-US|P
+Link2=GetFile|https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US
+Link3=GetPortable|https://portableapps.com/apps/internet/firefox_portable|P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

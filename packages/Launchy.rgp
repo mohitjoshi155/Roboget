@@ -1,0 +1,30 @@
+[Info]
+Name=Launchy
+Ver=2.5
+About=Launchy is a free and open-source application launcher. It indexes shortcuts in the start menu, and files in specific folders, to allow quicker access to programs without opening the start menu or browsing to folders.[
+Dev=Josh Karlin
+DevURL=http://www.launchy.net/
+WinVer=Compatible with Windows XP, 7 and 10.
+BetaLink=Yes
+
+[Links]
+Link1=GetFile|http://www.launchy.net/downloads/win/Launchy2.5.exe|D
+Link2=GetFile|http://www.launchy.net/downloads/win/LaunchySetup2.6B2.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/launchy,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+[Info]
+Name=Glary Utilities
+Ver=5.0
+About=Glary Utilities offers free powerful and easy-to-use system tools and utilities to help fix, speed up, maintain and protect your PC. 
+Dev=Glarysoft
+DevURL=http://www.glarysoft.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://download.glarysoft.com/gu5setup.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/glary_utilities,1.html|M
+Link3=GetPortable|https://download.glarysoft.com/guportable.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

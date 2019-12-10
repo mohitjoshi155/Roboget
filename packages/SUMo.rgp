@@ -1,0 +1,26 @@
+[Info]
+Name=SUMo
+Ver=Latest
+About=SUMo stands for Software Update Monitor. Thanks to SUMo you'll be able to keep your PC up-to-date by using the most recent version of your favorite software ! Unlike build-in auto update features, SUMo tells you if updates are available before you need to use your software.
+Dev=KC Softwares
+DevURL=https://www.kcsoftwares.com
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://kcsoftwares.com/files/sumo_lite.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/sumo,1.html|M
+Link3=GetPortable|https://www.kcsoftwares.com/files/sumo.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+[Info]
+Name=SugarSync
+Ver=Latest
+About=SugarSync is a cloud service that enables active synchronization of files across computers and other devices for file backup, access, syncing, and sharing.
+Dev=J2 Global
+DevURL=http://sugarsync.com/
+WinVer=Compatible with Windows 7, 8.1 und 10.
+
+[Links]
+Link1=GetFile|https://sugarsync.com/downloads/p/SugarSyncSetup.exe|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

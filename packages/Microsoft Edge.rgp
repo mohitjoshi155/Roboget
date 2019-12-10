@@ -1,0 +1,28 @@
+[Info]
+Name=Microsoft Edge Chromium
+Ver=Release Candidate
+About=Chromium is an open-source browser implementation that is used as a base by several browser developers, including Google (with its proprietary Chrome browser), Vivaldi, Opera, Yandex, Brave, and more.
+Dev=Microsoft
+DevURL=https://www.microsoftedgeinsider.com
+WinVer= Chromium-based Edge is available to on Windows 10, Windows 8.1/8 and Windows 7.
+
+[Links]
+Task1=Detect|HKEY_CURRENT_USER\Software\Microsoft\Edge SxS
+Link1=GetFile|https://www.microsoftedgeinsider.com|P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

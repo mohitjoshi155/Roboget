@@ -1,0 +1,29 @@
+[Info]
+Name=Rufus
+Ver=3.8
+About=Rufus is a free and open-source portable application that helps format and create bootable USB flash drives, such as USB keys/pendrives, Live USBs, memory sticks, etc.
+Dev=Pete Batard
+DevURL=https://rufus.ie/
+WinVer=Compatible with Windows 7 and later
+
+[Links]
+Link1=GetFile|https://github.com/pbatard/rufus/releases/download/v3.8/rufus-3.8.exe|D
+Link2=GetFile|https://github.com/pbatard/rufus/releases|M
+Link3=GetPortable|https://github.com/pbatard/rufus/releases/download/v3.8/rufus-3.8p.exe|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

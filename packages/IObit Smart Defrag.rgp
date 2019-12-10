@@ -1,0 +1,29 @@
+[Info]
+Name=IObit Smart Defrag 
+Ver=Latest
+About=Smart Defrag is a safe, stable and easy-to-use disk defragmenter that provides user maximum hard disk performance automatically and intelligently.
+Dev=IObit
+DevURL=https://www.iobit.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://update.iobit.com/dl/smart-defrag-setup.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/iobit_smartdefrag,1.html|M
+Link3=GetPortable|https://portableapps.com/apps/utilities/smart_defrag_portable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

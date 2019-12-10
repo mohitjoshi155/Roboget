@@ -1,0 +1,15 @@
+[Info]
+Name=PrivaZer
+Ver=Latest
+About=PrivaZer is a computer clean-up utility on steroids. It gets rid of junk files and wipes away traces of activity that could compromise your privacy.
+Dev=Goversoft LLC
+DevURL=https://privazer.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://privazer.com/PrivaZer_free.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/privazer,1.html|M
+Link3=GetPortable|https://privazer.com/PrivaZer.exe|D
+
+
+

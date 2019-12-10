@@ -1,0 +1,30 @@
+[Info]
+Name=GIMP
+Ver= 2.10.14 
+About=The GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software suitable for such tasks as photo retouching, image composition and image authoring.
+Dev=The GIMP Team
+DevURL=http://www.gimp.org
+WinVer=Compatible with Windows 7 or over.
+SizeLink=~ 200 Mb
+TorrentLink=Yes
+
+[Links]
+Link1=GetFile|https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.14-setup.exe|D
+Link2=GetFile|https://download.gimp.org/pub/gimp/v2.10/windows/gimp-2.10.14-setup.exe.torrent|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+[Info]
+Name=JDowloader
+Ver=2.0
+About=JDownloader simplifies downloading files from One-Click-Hosters not only for users with a premium account but also for users who don't pay. JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. 
+Dev=Appwork GmbH
+DevURL=http://jdownloader.org
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|http://jdownloader.org/dl?v=101|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/jdownloader,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

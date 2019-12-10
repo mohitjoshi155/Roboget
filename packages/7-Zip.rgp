@@ -1,0 +1,12 @@
+[Info]
+Name=7-Zip
+Ver=Latest
+About=7-Zip is a file archiver with the high compression ratio. The program supports 7z, ZIP, CAB, RAR, ARJ, LZH, CHM, GZIP, BZIP2, Z, TAR, CPIO, RPM and DEB formats. Compression ratio in the new 7z format is 30-50% better than ratio in ZIP format.
+Dev=7-zip
+DevURL=http://www.7-zip.org/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://sourceforge.net/projects/sevenzip/files/latest/download|P
+Link2=GetFile|https://www.majorgeeks.com/files/details/7_zip.html|M
+Link3=GetPortable|http://portableapps.com/apps/utilities/7-zip_portable

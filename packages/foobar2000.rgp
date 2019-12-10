@@ -1,0 +1,31 @@
+[Info]
+Name=foobar2000
+Ver=1.4.8
+About=foobar2000 is an advanced audio player for the Windows platform. Some of the basic features include full unicode support, ReplayGain support and native support for several popular audio formats.
+Dev=foobar2000
+DevURL=http://www.foobar2000.com
+WinVer=Compatible with all Windows versions.
+BetaLink=Yes
+
+[Links]
+Link1=GetFile|https://www.foobar2000.org/download|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/foobar2000,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

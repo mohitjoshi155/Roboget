@@ -1,0 +1,14 @@
+[Info]
+Name=CCleaner
+Ver=5.63.7540
+About=CCleaner is a utility that cleans up the files on your computer. It can remove items that are no longer needed, such as cookies from Web browsing, to free up space on your hard drive, speed up your computer and protect your privacy. 
+Dev=Piriform
+DevURL=http://www.ccleaner.com
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+
+[Links]
+Task1=Detect|HKEY_LOCAL_MACHINE\SOFTWARE\Piriform\CCleaner
+Link1=GetFile|http://www.piriform.com/ccleaner/download/standard
+Link2=GetFile|https://download.ccleaner.com/slim/ccsetup563_slim.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/ccleaner_standard,1.html|M
+Link4=GetPortable|http://www.piriform.com/ccleaner/download/portable|P

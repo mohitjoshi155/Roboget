@@ -1,0 +1,27 @@
+[Info]
+Name=WinDirStat
+Ver=1.1.2
+About=WinDirStat is a free and open-source graphical disk usage analyzer for Microsoft Windows. It is notable for presenting a sub-tree view with disk use percentage alongside a usage-sorted list of file extensions that is interactively integrated with a colorful graphical display.
+Dev=Bernhard Seifert and Oliver Schneider
+DevURL=https://windirstat.net/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.fosshub.com/WinDirStat.html?dwl=windirstat1_1_2_setup.exe|P
+Link2=GetFile|https://sourceforge.net/projects/windirstat/files/latest/download
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/windirstat,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

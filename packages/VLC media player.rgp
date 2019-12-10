@@ -1,0 +1,27 @@
+[Info]
+Name=VLC media player
+Ver=3.0.8
+About=VLC media player (commonly known as just VLC) is a free and open-source portable cross-platform media player software and streaming media server developed by the VideoLAN project. VLC supports many audio and video compression methods and file formats, including DVD-Video, video CD and streaming protocols. It is able to stream media over computer networks and to transcode multimedia files.
+Dev=VideoLAN
+DevURL=https://www.videolan.org/vlc/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://ftp.halifax.rwth-aachen.de/videolan/vlc/3.0.8/win32/vlc-3.0.8-win32.exe|DIRECT
+Link2=GetFile|https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe|DIRECT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

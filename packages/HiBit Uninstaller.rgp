@@ -1,0 +1,27 @@
+[Info]
+Name=HiBit Uninstaller
+Ver=2.2.20
+About=HiBit Uninstaller is the perfect solution for uninstalling Windows software, allowing you to uninstall programs quickly and completely using its simple and user friendly interface, There are also many tools to clean up and manage your system.
+Dev=HiBitSoft
+DevURL=http://www.hibitsoft.ir/Uninstaller.html
+WinVer=Compatible with Windows XP/Vista/7/8.1/10 (32/64 bits).
+
+[Links]
+Link1=GetFile|http://hibitsoft.ir/HiBitUninstaller/HiBitUninstaller-setup-2.2.20.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/hibit_uninstaller,1.html|M
+Link3=GetPortable|http://hibitsoft.ir/HiBitUninstaller/HiBitUninstaller-Portable-2.2.20.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

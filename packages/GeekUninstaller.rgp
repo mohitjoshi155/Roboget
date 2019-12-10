@@ -1,0 +1,33 @@
+[Info]
+Name=GeekUninstaller 
+Ver=Latest
+About=GeekUninstaller is a much faster and more powerful alternative to "Windows Add or Remove Programs" applet! It has very powerful features to uninstall and remove programs. It can effectively and thoroughly uninstall any program that the standard Windows Add/Remove Programs can't remove, remove all the leftover files and registry entries, and fix the program install/uninstall errors if anything found.
+Dev=Thomas Koen
+DevURL=https://geekuninstaller.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.majorgeeks.com/mg/getmirror/geekuninstaller,1.html|M
+Link2=GetPortable|https://geekuninstaller.com/geek.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

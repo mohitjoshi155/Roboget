@@ -1,0 +1,26 @@
+[Info]
+Name=Google Chrome
+Ver=Latest
+About=Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier. It has one box for everything: Type in the address bar and get suggestions for both search and web pages. Will give you thumbnails of your top sites; Access your favorite pages instantly with lightning speed from any new tab.
+Dev=Google
+DevURL=https://www.google.com
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+
+[Links]
+Task1=Detect|HKEY_CURRENT_USER\Software\Google\Chrome
+Link1=GetFile|https://cloud.google.com/chrome-enterprise/browser/download|P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

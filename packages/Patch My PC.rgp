@@ -1,0 +1,27 @@
+[Info]
+Name=PatchMyPC
+Ver=Latest
+About=Patch My PC Free is a portable and reliable tool which can quickly check your PC for outdated software. The supported third-party programs include a large number of widely-used applications, including Adobe Reader, Mozilla Firefox, Oracle Java, Apple Quicktime, iTunes, Microsoft Silverlight and many more.
+Dev=Patch My PC, LLC
+DevURL=https://patchmypc.net/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetPortable|https://patchmypc.net/freeupdater/PatchMyPC.exe|D
+Link2=GetPortable|https://www.majorgeeks.com/mg/getmirror/patch_my_pc,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+[Info]
+Name=Atom
+Ver=Latest
+About=Atom is a free and open-source text and source code editor with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies.
+Dev=GitHub
+DevURL=https://atom.io/
+WinVer=Compatible with 64-bit Windows 7 or later.
+64BitLink=Yes
+BetaLink=Yes
+
+[Links]
+Link1=GetFile|https://atom.io/download/windows_x64|P
+Link2=GetFile|https://atom.io/download/windows_x64?channel=beta
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/atom,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

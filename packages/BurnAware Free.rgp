@@ -1,0 +1,14 @@
+[Info]
+Name=BurnAware Free
+Ver=12.9
+About=Free burning software to create CDs, DVDs, and Blu-ray discs of all types.
+Dev=Burnaware Technologies
+DevURL=http://www.burnaware.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.burnaware.com/downloads/burnaware_cfree_12.9.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/burnaware_free,1.html|M
+
+
+

@@ -1,0 +1,32 @@
+[Info]
+Name=FreeCommander XE 2019
+Ver=Latest
+About=FreeCommander XE is an easy-to-use alternative to the standard windows file manager.
+Dev=Marek Jasinski
+DevURL=https://freecommander.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://freecommander.com/downloads/FreeCommanderXE-32-public_setup.zip|D
+Link4=GetFile|https://www.majorgeeks.com/mg/get/freecommander,1.html|M
+Link3=GetPortable|https://freecommander.com/downloads/FreeCommanderXE-32-public_portable.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

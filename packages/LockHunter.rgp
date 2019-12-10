@@ -1,0 +1,11 @@
+[Info]
+Name=LockHunter
+Ver=Latest
+About=It is a free tool to delete files blocked by something you do not know. LockHunter is useful for fighting against malware, and other programs that are blocking files without a reason. Unlike other similar tools it deletes files into the recycle bin so you may restore them if deleted by mistake.
+Dev=Crystal Rich Ltd
+DevURL=https://lockhunter.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://lockhunter.com/startdownload.htm|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/lockhunter_77a7,1.html|M

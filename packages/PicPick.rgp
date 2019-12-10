@@ -1,0 +1,12 @@
+[Info]
+Name=PicPick 
+Ver=Latest
+About=PicPick is an all-in-one software for software developers, graphic designers and home user. It has an intuitive interface and simple, elegant operation. After starting the software, you simply select one of the tool from the PicPick Tools trayicon menu when you want. It features a powerful capture tool, image editor, color picker, color palette, pixel ruler, protractor, crosshair, whiteboard and etc. You can use all these tools freely.
+Dev=PicPick
+DevURL=https://picpick.app
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.picpick.org/releases/latest/picpick_inst.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/get/picpick,1.html|M
+Link3=GetPortable|https://www.picpick.org/releases/latest/picpick_portable.zip|D

@@ -1,0 +1,13 @@
+[Info]
+Name=McAfee Stinger
+Ver=Latest
+About=McAfee Stinger is a stand-alone utility used to detect and remove specific viruses. It is not a substitute for full anti-virus protection, but rather a tool to assist administrators and users when dealing with an infected system. 
+Dev=McAfee, Inc
+DevURL=https://www.mcafee.com/enterprise/downloads/free-tools/stinger.html
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|http://downloadcenter.mcafee.com/products/mcafee-avert/stinger/stinger32-epo.zip|D
+Link2=GetFile|http://downloadcenter.mcafee.com/products/mcafee-avert/stinger/stinger64-epo.zip|D
+

@@ -1,0 +1,16 @@
+[Info]
+Name=qBittorrent
+Ver=4.2.0
+About=qBittorrent is a cross-platform free and open-source BitTorrent client. The qBittorrent project aims to provide an open-source software alternative to µTorrent. qBittorrent is based on the Qt toolkit and libtorrent-rasterbar library.
+Dev=Christophe Dumez
+DevURL=http://qbittorrent.org/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+SizeLink=~ 25 Mb
+
+[Links]
+Link1=GetFile|http://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.2.0/qbittorrent_4.2.0_setup.exe|D
+Link2=GetFile|http://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.2.0/qbittorrent_4.2.0_x64_setup.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/qbittorrent,1.html|M
+Link4=GetFile|https://www.majorgeeks.com/mg/getmirror/qbittorrent_64_bit,1.html|M64
+

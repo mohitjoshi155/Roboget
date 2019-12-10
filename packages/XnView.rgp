@@ -1,0 +1,24 @@
+[Info]
+Name=XnView
+Ver=Latest
+About=XnView is a group of utilities that features viewing, converting, screen capture, slidshow, and Twain support. These utilities support viewing more than 400 graphic formats and can create 52.
+Dev=XnSoft
+DevURL=http://www.xnview.com
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://download.xnview.com/XnView-win.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/xnview_standard,1.html|M
+Link3=GetPortable|https://download.xnview.com/XnView-win.zip|D
+
+
+
+
+
+
+
+
+
+
+
+

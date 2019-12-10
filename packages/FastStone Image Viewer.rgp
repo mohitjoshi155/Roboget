@@ -1,0 +1,26 @@
+[Info]
+Name=FastStone Image Viewer 
+Ver=7.4
+About=An image browser, converter and editor that supports all major graphic formats including BMP, JPEG, JPEG 2000, GIF, PNG, PCX, TIFF, WMF, ICO, TGA and camera raw files. It has a nice array of features such as image viewing, management, comparison, red-eye removal, emailing, resizing, cropping, color adjustments, musical slideshow and much more.
+Dev=FastStone Soft
+DevURL=http://www.faststone.org/
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+
+[Links]
+Link1=GetFile|http://www.faststonesoft.net/DN/FSViewerSetup74.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/faststone_image_viewer,1.html|M
+Link3=GetPortable|http://www.faststonesoft.net/DN/FSViewer74.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+

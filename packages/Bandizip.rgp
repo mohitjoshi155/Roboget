@@ -1,0 +1,33 @@
+[Info]
+Name=Bandizip
+Ver=6.25
+About=Bandizip is free archiver for home and office. It handles the most popular compression formats, including Zip, 7z, and Rar files for free. It supports for ZIP, 7Z, RAR, ALZ, EGG, TAR, BH, LZH, GZ, BZ2, ISO, CAB, WIM, XZ, ARJ, and Z archives files and users can create self-extracting files (.EXE) and multi-volume (split) archives files.
+Dev=Bandisoft
+DevURL=https://bandisoft.com/bandizip/
+WinVer=Compatible with all Windows versions.
+BetaLink=Yes
+
+[Links]
+Link1=GetFile|https://de.bandisoft.com/bandizip/dl.php?web|P
+Link2=GetFile|https://de.bandisoft.com/bandizip/beta/
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/bandizip,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+[Info]
+Name=ResHacker
+Ver=Latest
+About=Resource Hacker is a resource editor for 32bit and 64bit Windows applications. It's both a resource compiler (for *.rc files), and a decompiler - enabling viewing and editing of resources in executables (*.exe; *.dll; *.scr; etc) and compiled resource libraries (*.res, *.mui). While Resource Hacker is primarily a GUI application, it also provides many options for compiling and decompiling resources from the command-line.
+Dev=Angus Johnson
+DevURL=http://www.angusj.com/resourcehacker
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://www.angusj.com/resourcehacker/reshacker_setup.exe|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/resource_hacker,1.html|M
+Link3=GetPortable|http://www.angusj.com/resourcehacker/resource_hacker.zip|D
+
+
+
+
+
+
+
+
+
+
+
+
+

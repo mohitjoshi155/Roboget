@@ -1,0 +1,12 @@
+[Info]
+Name=Greenshot
+Ver=1.2.10.6
+About=Greenshot is a free screenshot tool optimized for productivity. Greenshot's feature set mainly targets project managers, testers and developers. It is used to create full or partial screenshots. The captured screenshot can be annotated and edited using the built-in image editor before exporting it either to an image file, email attachment, printer or clipboard.
+Dev=Thomas Braun, Jens Klingen, Robin Krom
+DevURL=https://getgreenshot.org/
+WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+MirrorLink=Yes
+
+[Links]
+Link1=GetFile|https://github.com/greenshot/greenshot/releases/download/Greenshot-RELEASE-1.2.10.6/Greenshot-INSTALLER-1.2.10.6-RELEASE.exe|D
+Link2=GetFile|https://github.com/greenshot/greenshot/releases|M

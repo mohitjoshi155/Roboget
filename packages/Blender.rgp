@@ -1,0 +1,21 @@
+[Info]
+Name=Blender
+Ver=2.81
+About=Blender is a free and open source 3D animation suite that supports the entirety of the 3D pipeline - modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing, and game creation.
+Dev=Blender Foundation
+DevURL=https://www.blender.org/
+WinVer=Compatible with all 10, 8 and 7.
+64BitLink=Yes
+SizeLink=~ 130 Mb
+
+[Links]
+Link1=GetFile|https://ftp.halifax.rwth-aachen.de/blender/release/Blender2.81/blender-2.81-windows64.msi|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/blender,1.html|M
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+[Info]
+Name=PDF Split and Merge
+Ver=4.0.5
+About=PDFsam Basic, a free, open source, multi-platform software designed to split, merge, extract pages, mix and rotate PDF files. 
+Dev=Andrea Vacondio
+DevURL=https://pdfsam.org/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://github.com/torakiki/pdfsam/releases/download/v4.0.5/pdfsam-4.0.5.msi|D
+Link2=GetFile|https://github.com/torakiki/pdfsam/releases|M
+Link3=GetPortable|https://github.com/torakiki/pdfsam/releases/download/v4.0.5/pdfsam-4.0.5-windows.zip

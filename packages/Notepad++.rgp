@@ -1,0 +1,16 @@
+[Info]
+Name=Notepad++
+Ver=7.8.2
+About=Notepad++ is a free source code editor and Notepad replacement that supports several languages. 
+Dev=Don Ho
+DevURL=https://notepad-plus-plus.org/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|http://download.notepad-plus-plus.org/repository/7.x/7.8.2/npp.7.8.2.Installer.exe|D
+Link2=GetFile|http://download.notepad-plus-plus.org/repository/7.x/7.8.2/npp.7.8.2.Installer.x64.exe|RETURN
+Link3=GetFile|https://github.com/notepad-plus-plus/notepad-plus-plus/releases|M
+Link4=GetPortable|http://download.notepad-plus-plus.org/repository/7.x/7.8.2/npp.7.8.2.bin.7z|D
+Link5=GetPortable|http://download.notepad-plus-plus.org/repository/7.x/7.8.2/npp.7.8.2.bin.x64.7z|D
+

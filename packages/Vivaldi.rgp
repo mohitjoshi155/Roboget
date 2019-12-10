@@ -1,0 +1,14 @@
+[Info]
+Name=Vivaldi
+Ver=2.9
+About=Vivaldi is a cross-platform web browser built for – and with – the web. A browser based on the Blink engine (same in Chrome and Chromium) that is fast, but also a browser that is rich in functionality, highly flexible and puts the user first. 
+Dev=Vivaldi Technologies
+DevURL=https://vivaldi.com/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://downloads.vivaldi.com/stable/Vivaldi.2.9.1705.41.exe|D
+Link2=GetFile|https://downloads.vivaldi.com/stable/Vivaldi.2.9.1705.41.x64.exe|D
+
+
