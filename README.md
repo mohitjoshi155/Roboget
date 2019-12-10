@@ -24,6 +24,9 @@
 
 <h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
 
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
+*Custom template file*
+
 # You can just call me robo. I want to simplify your downloads!
 
 Roboget is a free and portable package Manager for Windows 10, 8.1 and 8 with focus on safe and direct download links. Roboget acts also as a GUI for Wget and cURL. Beside this also the external download manager JDownloader can be integrated to intercept download links from Roboget.
@@ -31,7 +34,7 @@ Roboget is a free and portable package Manager for Windows 10, 8.1 and 8 with fo
 # Contribute to Roboget!
 Create packages or keep the [current packages up to date](https://github.com/Mirinsoft/Roboget/blob/master/packages/)
 
-#### Download jobs for Roboget can be written and extended via "packages", plain text files which define exactly which download links the program should preserve.
+Download jobs for Roboget can be written and extended via "packages", plain text files which define exactly which download links the program should preserve.
 
 #### More Information about Roboget can be found on the [official website](https://www.imirin.com)
 
