@@ -23,7 +23,7 @@ Footer=000000
 FooterFontColor=54FEFC
 Settings=EDEBE9
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-nortoncom.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/norton-commander.png)
 
 Alien
 ---
@@ -44,7 +44,7 @@ Footer=333333
 FooterFontColor=6CC655
 Settings=EDEBE9
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-alien.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/alien.png)
 
 Dark Knight
 ---
@@ -65,7 +65,7 @@ Footer=1D1D1D
 FooterFontColor=FFFFFF
 Settings=D4145A
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-dark_knight.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/dark_-night.png)
 
 Open Water
 ---
@@ -86,4 +86,48 @@ Footer=2B2B2B
 FooterFontColor=999999
 Settings=39BDEE
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/roboget-open_water.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/open-water.png)
+
+Windows Terminal
+---
+```
+[Template]
+BackColor=012456
+FontColor=CCCCCC
+FontColorLight=FFFFFF
+HamburgerMenu=012456
+AddPackage=CCCCCC
+AddPackageFontColor=012456
+NavTop=CCCCCC
+NavTopFontColor=012456
+NavLeft=012456
+NavLeftFontColor=CCCCCC
+LinkFontColor=CCCCCC
+Divider=CCCCCC
+Footer=012456
+FooterFontColor=CCCCCC
+Settings=CCCCCC
+```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
+
+CCleaner
+---
+```
+[Template]
+BackColor=F2F2F2
+FontColor=000000
+FontColorLight=828282
+HamburgerMenu=E44D39
+AddPackage=5892E2
+AddPackageFontColor=FFFFFF
+NavTop=4D4D4D
+NavTopFontColor=FFFFFF
+NavLeft=676767
+NavLeftFontColor=FFFFFF
+LinkFontColor=4283DE
+Divider=727272
+Footer=4D4D4D
+FooterFontColor=FFFFFF
+Settings=edebe9
+```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
