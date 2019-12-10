@@ -65,7 +65,7 @@ Footer=1D1D1D
 FooterFontColor=FFFFFF
 Settings=D4145A
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/dark_-night.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/dark-knight.png)
 
 Open Water
 ---
@@ -130,4 +130,4 @@ Footer=4D4D4D
 FooterFontColor=FFFFFF
 Settings=edebe9
 ```
-![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/ccleaner.png)
