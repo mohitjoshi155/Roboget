@@ -134,3 +134,25 @@ FooterFontColor=FFFFFF
 Settings=edebe9
 ```
 ![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/ccleaner.png)
+
+Visual Studio Code
+---
+```
+[Template]
+BackColor=ffffff
+FontColor=000000
+FontColorLight=006AB1
+HamburgerMenu=000000
+AddPackage=007ACC
+AddPackageFontColor=E4E6F1
+NavTop=E4E4E4
+NavTopFontColor=000000
+NavLeft=2C2C2C
+NavLeftFontColor=ffffff
+LinkFontColor=2881BD
+Divider=F3F3F3
+Footer=68217A
+FooterFontColor=ffffff
+Settings=E4E6F1
+```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/vs-code.png)
