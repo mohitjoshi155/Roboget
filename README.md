@@ -27,7 +27,7 @@
 ![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
 *Custom [template](https://github.com/Mirinsoft/Roboget/blob/master/templates/templates.md)*
 
-# You can just call me robo. I want to simplify your downloads!
+# You can just call me robo. I'm app downloader, app store and software repository
 
 Roboget is a free and portable apps downloader for Windows 10, 8.1 and 8 with focus on safe and direct download links.
 
