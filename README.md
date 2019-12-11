@@ -20,8 +20,7 @@
 </a>
 </p>
 
-
-<h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
+<h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h4>
 
 ![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/windows-terminal.png)
 *Custom [template](https://github.com/Mirinsoft/Roboget/blob/master/templates/templates.md)*
@@ -33,6 +32,8 @@ Roboget is a free and portable apps downloader for Windows 10, 8.1 and 8 with fo
 You can rely on Roboget to automate the download and update process for various applications on your computer. Pick the apps you want, and Roboget will download all of your selected apps from trusted developer sites at once, automatically. In the best case, it offers a direct download link for an app, which can be downloaded via the integrated Wget, cURL or JDownloader, downloader extension.
 
 You can choose, which download manager you want to use for the download. If a direct download link is not available, you will be directed to the software publishers page and the download will start in your browser.
+
+#### You can read a more complete introduction in the blog post [here](https://www.getclone.app/blog/news/59-introducing-roboget).
 
 Features
 --------
