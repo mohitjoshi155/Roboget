@@ -1,5 +1,5 @@
 <h1 align="center"> Roboget </h1>
-<h2 align="center"> The new way to quickly download apps on a new Windows PC </h2>
+<h3 align="center"> The new way to quickly download apps on a new Windows PC </h3>
 
 <p align="center">
 <a href="https://github.com/Mirinsoft/Roboget" target="_blank">
