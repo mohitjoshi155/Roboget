@@ -1,5 +1,5 @@
 [Info]
-Name=Spybot - Search && Destroy
+Name=Spybot - Search && Destroy OK
 Ver=3.0
 About=Spybot uses a unique technique to find the spyware, adware and more unwanted software that threatens your privacy that others don't find. And the +Antivirus Editions give you complete protection with the best available Antivirus solution already integrated.
 Dev=Safer-Networking Ltd.
@@ -9,21 +9,3 @@ WinVer=Compatible with Windows 7 or over.
 [Links]
 Link1=GetFile|https://updates2.safer-networking.org/spybot1/spybotsd-2.7.64.0.exe|D
 Link2=GetFile|https://www.safer-networking.org/products/spybot-free-edition/download-mirror-2|M
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
