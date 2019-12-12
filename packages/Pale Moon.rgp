@@ -1,0 +1,31 @@
+[Info]
+Name=Pale Moon
+Ver=28.8.0
+About=Pale Moon is a fast and stable Open Source alternative to the standard Firefox browser. It is essentially an optimized version of Mozilla's browser that actually retains all the stability and reliability of Firefox while providing a familiar, efficient, and fully customizable interface. 
+Dev=Moonchild Productions
+DevURL=http://www.palemoon.org/
+WinVer=Compatible with Windows 7 or later.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|http://relmirror.palemoon.org/release/palemoon-28.8.0.win32.installer.exe|D
+Link2=GetFile|http://relmirror.palemoon.org/release/palemoon-28.8.0.win64.installer.exe|D
+Link3=GetPortable|hhttp://relmirror.palemoon.org/release/Palemoon-Portable-28.8.0.win32.exe|D
+Link4=GetPortable|http://relmirror.palemoon.org/release/Palemoon-Portable-28.8.0.win64.exe|D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

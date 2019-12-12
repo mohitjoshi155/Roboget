@@ -1,0 +1,14 @@
+[Info]
+Name=PotPlayer
+Ver=Latest
+About=PotPlayer is a comprehensive video and audio player that also supports TV channels, subtitles, and skins.
+Dev=Daum Communications
+DevURL=http://potplayer.daum.net/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe|D
+Link2=GetFile|https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/potplayer,1.html|M
+
