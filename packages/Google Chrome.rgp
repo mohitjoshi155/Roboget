@@ -7,8 +7,9 @@ DevURL=https://www.google.com
 WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
 
 [Links]
-Task1=Detect|HKEY_CURRENT_USER\Software\Google\Chrome
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Google\Chrome
 Link1=GetFile|https://cloud.google.com/chrome-enterprise/browser/download|P
+
 
 
 
