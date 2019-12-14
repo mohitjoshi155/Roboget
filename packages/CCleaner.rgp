@@ -7,8 +7,9 @@ DevURL=http://www.ccleaner.com
 WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
 
 [Links]
-Task1=Detect|HKEY_LOCAL_MACHINE\SOFTWARE\Piriform\CCleaner
+Task1=IsInstalled|HKEY_LOCAL_MACHINE\SOFTWARE\Piriform\CCleaner
 Link1=GetFile|http://www.piriform.com/ccleaner/download/standard
 Link2=GetFile|https://download.ccleaner.com/slim/ccsetup563_slim.exe|D
 Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/ccleaner_standard,1.html|M
 Link4=GetPortable|http://www.piriform.com/ccleaner/download/portable|P
+
