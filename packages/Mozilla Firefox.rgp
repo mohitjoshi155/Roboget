@@ -8,10 +8,11 @@ WinVer=Compatible with all Windows versions.
 64BitLink=Yes
 
 [Links]
-Task1=Detect|HKEY_CURRENT_USER\Software\Mozilla\Firefox
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Mozilla\Firefox
 Link1=GetFile|https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win&lang=en-US|P
 Link2=GetFile|https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=en-US
 Link3=GetPortable|https://portableapps.com/apps/internet/firefox_portable|P
+
 
 
 
