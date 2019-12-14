@@ -7,8 +7,8 @@ DevURL=https://github.com/DavidXanatos/priv10
 WinVer=Compatible with Windows 10.
 
 [Links]
-Link1=GetFile|https://github.com/DavidXanatos/priv10/releases/download/v0.70/PrivateWin10_v0.70.zip|D
-Link2=GetPortable|https://github.com/DavidXanatos/priv10/releases/download/v0.70/PrivateWin10-Setup-v0.70.exe|D
+Link1=GetFile|https://github.com/DavidXanatos/priv10/releases/download/v0.70/PrivateWin10-Setup-v0.70.exe|D
+Link2=GetPortable|https://github.com/DavidXanatos/priv10/releases/download/v0.70/PrivateWin10_v0.70.zip|D
 Link3=GetPortable|https://github.com/DavidXanatos/priv10/releases|M
 
 
