@@ -1,0 +1,29 @@
+[Info]
+Name=Wise Disk Cleaner
+Ver=Latest
+About=Wise Disk Cleaner is a free, user-friendly, fast and easy to use application developed to free up disk space. 
+Dev=WiseCleaner
+DevURL=http://www.wisecleaner.com/wisediskcleanerfree.html
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|http://downloads.wisecleaner.com/soft/WDCFree.exe|D
+Link2=GetPortable|http://wisecleaner.com/soft/WDCFree.zip|D
+Link3=GetPortable|https://www.majorgeeks.com/mg/getmirror/wise_disk_cleaner_portable,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
