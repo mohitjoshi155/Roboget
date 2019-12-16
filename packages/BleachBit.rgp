@@ -5,17 +5,8 @@ About=BleachBit is a free and open-source disk space cleaner, privacy manager, a
 Dev=Andrew Ziem
 DevURL=https://www.bleachbit.org/
 WinVer=Compatible with Windows Vista, 7, 8, and 10.
-BetaLink=Yes
 
 [Links]
 Link1=GetFile|https://www.bleachbit.org/download/file/t?file=BleachBit-3.0-setup.exe|P
 Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/bleachbit,1.html|M
 Link4=GetPortable|https://www.bleachbit.org/download/file/t?file=BleachBit-3.0-portable.zip|P
-
-
-
-
-
-
-
-
