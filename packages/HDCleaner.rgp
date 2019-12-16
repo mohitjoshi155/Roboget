@@ -1,0 +1,20 @@
+[Info]
+Name=HDCleaner
+Ver=Latest
+About=HDCleaner is designed for complete cleaning of your Windows PC including registry and backup, encrypting data, splitting files, removing traces, and more.
+Dev=Kurt Zimmermann
+DevURL=https://kurtzimmermann.com/index_e.html
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://kurtzimmermann.com/files/HDCleaner.exe|D
+Link2=GetFile|http://m.majorgeeks.com/mg/getmirror/hdcleaner,1.html|M
+Link3=GetPortable|https://kurtzimmermann.com/files/HDCleanerX32.zip|D
+Link4=GetPortable|https://kurtzimmermann.com/files/HDCleanerX64.zip|D
+
+
+
+
+
+
