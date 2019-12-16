@@ -1,0 +1,13 @@
+[Info]
+Name=Balabolka
+Ver=Latest
+About=Balabolka is a Text-To-Speech (TTS) program. All computer voices installed on your system are available to Balabolka. 
+Dev=Ilya Morozov
+DevURL=http://www.cross-plus-a.com/
+WinVer=Compatible with all Windows versions.
+SizeLink=~ 17 Mb
+
+[Links]
+Link1=GetFile|http://balabolka.site/balabolka.zip|D
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/balabolka,1.html|M
+Link3=GetPortable|http://balabolka.site/balabolka_portable.zip|D
