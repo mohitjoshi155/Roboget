@@ -4,7 +4,7 @@ Ver=5.63.7540
 About=CCleaner is a utility that cleans up the files on your computer. It can remove items that are no longer needed, such as cookies from Web browsing, to free up space on your hard drive, speed up your computer and protect your privacy. 
 Dev=Piriform
 DevURL=http://www.ccleaner.com
-WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit versions.
+WinVer=Compatible with Windows 7 or later.
 
 [Links]
 Task1=IsInstalled|HKEY_LOCAL_MACHINE\SOFTWARE\Piriform\CCleaner
