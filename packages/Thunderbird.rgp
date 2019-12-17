@@ -7,7 +7,7 @@ DevURL=https://www.thunderbird.net/
 WinVer=Compatible with all Windows versions.
 64BitLink=Yes
 BetaLink=Yes
-SizeLink=~~35.0 MB (Open Source)
+SizeLink=~ 35.0 MB (Open Source)
 
 [Links]
 Link1=GetFile|http://download.cdn.mozilla.net/pub/thunderbird/releases/68.3.0/win32/en-US/Thunderbird%20Setup%2068.3.0.exe|D
