@@ -1,0 +1,30 @@
+[Info]
+Name=Sandboxie
+Ver=Latest
+About=Sandboxie lets you run programs in an isolated space which will prevent them from making permanent changes to other programs and data to your computer.
+Dev=Sophos Ltd.
+DevURL=http://www.sandboxie.com/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Link1=GetFile|https://www.sandboxie.com/DownloadSandboxie|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/sandboxie,1.html|M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
