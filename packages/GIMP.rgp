@@ -6,8 +6,6 @@ Dev=The GIMP Team
 DevURL=http://www.gimp.org
 WinVer=Compatible with Windows 7 or over.
 SizeLink=~220 MB (Open Source)
-TorrentLink=Yes
 
 [Links]
 Link1=GetFile|https://download.gimp.org/pub/gimp/v2.10/windows/gimp-2.10.14-setup-2.exe|D
-Link2=GetFile|https://download.gimp.org/pub/gimp/v2.10/windows/gimp-2.10.14-setup.exe.torrent|M
