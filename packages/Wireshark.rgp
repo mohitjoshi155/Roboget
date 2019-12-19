@@ -1,0 +1,15 @@
+[Info]
+Name=Wireshark
+Ver=3.2.0
+About=Wireshark was designed for quickly capturing then analyzing network packets and displaying detailed information about them.
+Dev=Wireshark-Community
+DevURL=http://www.wireshark.org/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+SizeLink=~50.0 MB (Open Source)
+
+[Links]
+Link1=GetFile|https://1.eu.dl.wireshark.org/win32/Wireshark-win32-3.2.0.exe|D
+Link2=GetFile|https://1.eu.dl.wireshark.org/win64/Wireshark-win64-3.2.0.exe|D
+Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/wireshark,1.html|M
+Link4=GetPortable|https://1.eu.dl.wireshark.org/win32/WiresharkPortable_3.2.0.paf.exe|D
