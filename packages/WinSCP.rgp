@@ -5,7 +5,7 @@ About=WinSCP is a popular SFTP client and FTP client for Microsoft Windows! Copy
 Dev=Martin Prikryl
 DevURL=https://winscp.net
 WinVer=Compatible with all Windows versions.
-SizeLink=~ 10 Mb
+SizeLink=~10 MB
 
 [Links]
 Link1=GetFile|https://winscp.net/download/WinSCP-5.15.9-Setup.exe|D
