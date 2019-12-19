@@ -1,5 +1,5 @@
 [Info]
-Name=CloneApp test
+Name=CloneApp
 Ver=2.14.537
 About=A fresh re-install always makes Windows much faster but that means you lose all your program settings. CloneApp will Backup all your App settings from Windows' directories and the Registry, and only those you really need. The Idea behind CloneApp is a bit different from the "classic" Backup tool. The main purpose is to backup all the Configuration files in the Windows Program directories and the Registry.
 Dev=Mirinsoft
