@@ -5,26 +5,9 @@ About=The GIMP is the GNU Image Manipulation Program. It is a freely distributed
 Dev=The GIMP Team
 DevURL=http://www.gimp.org
 WinVer=Compatible with Windows 7 or over.
-SizeLink=~ 200 Mb
+SizeLink=~200 MB
 TorrentLink=Yes
 
 [Links]
 Link1=GetFile|https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.14-setup.exe|D
 Link2=GetFile|https://download.gimp.org/pub/gimp/v2.10/windows/gimp-2.10.14-setup.exe.torrent|M
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
