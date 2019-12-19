@@ -6,16 +6,8 @@ Dev=Blender Foundation
 DevURL=https://www.blender.org/
 WinVer=Compatible with all 10, 8 and 7.
 64BitLink=Yes
-SizeLink=~ 130 Mb
+SizeLink=~130 MB
 
 [Links]
 Link1=GetFile|https://ftp.halifax.rwth-aachen.de/blender/release/Blender2.81/blender-2.81-windows64.msi|D
 Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/blender,1.html|M
-
-
-
-
-
-
-
-
