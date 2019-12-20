@@ -8,6 +8,7 @@ WinVer=Compatible with all Windows versions.
 64BitLink=Yes
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\MPC-HC
 Link1=GetFile|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20Win32/MPC-HC_v1.7.13_x86/MPC-HC.1.7.13.x86.exe|D
 Link2=GetFile|https://binaries.mpc-hc.org/MPC%20HomeCinema%20-%20x64/MPC-HC_v1.7.13_x64/MPC-HC.1.7.13.x64.exe|D
 Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/media_player_classic_home_cinema,1.html|M
