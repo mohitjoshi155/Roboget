@@ -7,18 +7,6 @@ DevURL=https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 WinVer=Compatible with all Windows versions.
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Sysinternals\Process Explorer
 Link1=GetPortable|https://download.sysinternals.com/files/ProcessExplorer.zip|D
 Link2=GetPortable|https://www.majorgeeks.com/mg/getmirror/microsoft_process_explorer,1.html|M
-
-
-
-
-
-
-
-
-
-
-
-
-
