@@ -1,0 +1,25 @@
+[Info]
+Name=Visual Studio Code 
+Ver=Latest
+About=Visual Studio Code is a lightweight but powerful Open Source multiplatform source code editor for your desktop. It comes with built-in support for JavaScript, TypeScript, and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
+Dev=Microsoft
+DevURL=https://code.visualstudio.com/
+WinVer=Compatible with all Windows versions.
+SizeLink=~ 60MB (Open Source)
+64BitLink=Yes
+
+[Links]
+Link1=GetFile|https://aka.ms/win32-user-stable|P
+Link2=GetFile|https://aka.ms/win32-x64-user-stable
+Link3=GetPortable|https://go.microsoft.com/fwlink/?LinkID=623231|P
+Link4=GetPortable|https://go.microsoft.com/fwlink/?Linkid=850641|P64
+
+
+
+
+
+
+
+
+
+

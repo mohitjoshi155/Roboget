@@ -1,0 +1,12 @@
+[Info]
+Name=Xtreme Download Manager
+Ver=7.2.8
+About=Xtreme Download Manager is an advanced and powerful tool to increase download speed, resume broken/dead downloads and more.
+Dev=Subhra Das Gupta
+DevURL=http://xdman.sourceforge.net/
+WinVer=Compatible with all Windows versions.
+
+[Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Xtreme Download Manager
+Link1=GetFile|https://sourceforge.net/projects/xdman/files/latest/download|P
+Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/xtreme_download_manager,1.html|M
