@@ -1,0 +1,16 @@
+[Info]
+Name=aria2
+Ver=1.35.0
+About=aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. 
+Dev=Tatsuhiro Tsujikawa
+DevURL=https://aria2.github.io/
+WinVer=Compatible with all Windows versions.
+64BitLink=Yes
+
+[Links]
+Link1=GetPortable|https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0-win-32bit-build1.zip|D
+Link2=GetPortable|https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0-win-64bit-build1.zip|D
+Link3=GetPortable|https://github.com/aria2/aria2/releases|M
+
+
+
