@@ -7,21 +7,5 @@ DevURL=https://www.opera.com
 WinVer=Compatible with all Windows versions.
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Opera Software
 Link1=GetFile|https://www.opera.com/computer/thanks?ni=stable&os=windows|P
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
