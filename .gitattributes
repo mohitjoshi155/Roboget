@@ -1,4 +1,4 @@
 # Set the default behavior, in case people don't have core.autocrlf set
 * text eol=crlf
-# Reclassifies all files as Visual Basic.
-* linguist-language=Visual-Basic
+# Set language
+*.rgp linguist-language=Visual-Basic
