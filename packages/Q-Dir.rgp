@@ -7,23 +7,7 @@ DevURL=https://www.softwareok.com
 WinVer=Compatible with all Windows versions.
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\SoftwareOK\Q-Dir
 Link1=GetFile|https://www.softwareok.com/Download/Q-Dir_Installer.zip|D
 Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/q_dir,1.html|M
 Link3=GetPortable|https://www.softwareok.com/Download/Q-Dir_Portable.zip|D
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
