@@ -7,27 +7,6 @@ DevURL=https://geekuninstaller.com/
 WinVer=Compatible with all Windows versions.
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Geek Uninstaller
 Link1=GetFile|https://www.majorgeeks.com/mg/getmirror/geekuninstaller,1.html|M
 Link2=GetPortable|https://geekuninstaller.com/geek.zip|D
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
