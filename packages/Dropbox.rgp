@@ -7,22 +7,6 @@ DevURL=https://www.dropbox.com/
 WinVer=Compatible with all Windows versions.
 
 [Links]
+Task1=IsInstalled|HKEY_CURRENT_USER\Software\Dropbox
 Link1=GetFile|https://www.dropbox.com/download?os=win|P
 Link2=GetFile|https://www.majorgeeks.com/mg/getmirror/dropbox,1.html|M
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
