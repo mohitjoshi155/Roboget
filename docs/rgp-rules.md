@@ -56,6 +56,28 @@ Detect:
 		Optional you can use the Detect command, to check wheter an package is Installed
 
 
+----------------------------------------------------------------------------------------------------------
+
+Run files: 
+		File1=RunFile|<path to application>?
+		
+----------------------------------------------------------------------------------------------------------
+
+Execute command-line: 
+		File1=RunCommand|<command>
+
+		Supported parameter: 
+		|SHOWCLI for showing a Windows command-line interface during execution
+		
+----------------------------------------------------------------------------------------------------------
+
+Kill process:
+		File1=TaskKill|<process name>|WARNING
+		Used to terminate tasks by process id (PID) or image name
+
+		Supported parameter: 
+		|WARNING for showing optional hint
+		
+----------------------------------------------------------------------------------------------------------
 
 ```
-
