@@ -6,7 +6,7 @@ Dev=Christophe Dumez
 DevURL=http://qbittorrent.org/
 WinVer=Compatible with all Windows versions.
 64BitLink=Yes
-SizeLink=~25 M<b
+SizeLink=~25 MB
 
 [Links]
 Link1=GetFile|http://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.2.1/qbittorrent_4.2.1_setup.exe|D
@@ -14,4 +14,3 @@ Link2=GetFile|http://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-w
 Link3=GetFile|https://www.majorgeeks.com/mg/getmirror/qbittorrent,1.html|M
 Link4=GetFile|https://www.majorgeeks.com/mg/getmirror/qbittorrent_64_bit,1.html|M64
 Link5=GetPortable|https://portableapps.com/apps/internet/qbittorrent_portable|P
-
