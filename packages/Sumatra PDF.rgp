@@ -6,12 +6,14 @@ Dev=Krzysztof Kowalczyk
 DevURL=https://www.sumatrapdfreader.org
 WinVer=Compatible with Windows 7, 8, 8.1, 10
 64BitLink=Yes
+BetaLink=Yes
 
 [Links]
 Link1=GetFile|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-install.exe|D
 Link2=GetFile|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64-install.exe|RETURN
-Link3=GetPortable|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2.zip|D
-Link4=GetPortable|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip|D
+Link3=GetFile|https://www.sumatrapdfreader.org/prerelease.html
+Link4=GetPortable|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2.zip|D
+Link5=GetPortable|https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip|D
 
 
 
