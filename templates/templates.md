@@ -6,6 +6,26 @@ You can reach the "roboget-settings.txt" file in ..\bin\ directory of Roboget or
 #### These template files are also compatible with Debotnet https://github.com/Mirinsoft/Debotnet
 
 
+Windows PowerShell
+---
+```
+[Template]
+BackColor=012456
+FontColor=ffffff
+FontColorLight=dbff00
+HamburgerMenu=ffffff
+NavTop=012456
+NavTopFontColor=ffffff
+NavLeft=012456
+NavLeftFontColor=ffffff
+LinkFontColor=dbff00
+Divider=ffffff
+Footer=012456
+FooterFontColor=ffffff
+Settings=EDEBE9
+```
+![alt text](https://github.com/Mirinsoft/Roboget/blob/master/templates/debotnet-powershell.png)
+
 Norton Commander 
 ---
 ```
