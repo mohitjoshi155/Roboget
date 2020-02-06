@@ -1,6 +1,6 @@
 [Info]
 Name=PrivateWin10
-Ver=0.73
+Ver=0.74
 About=PrivateWin10 is an open source, advanced Privacy tool for windows it provides a simple and comprehensive UI for tweaking privacy settings, as well as options to block system access to files and registry keys in order to enforce privacy whenever Windows does not provide a satisfying setting for that.
 Dev=David Xanatos
 DevURL=https://github.com/DavidXanatos/priv10
