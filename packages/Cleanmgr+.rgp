@@ -8,7 +8,7 @@ WinVer=Compatible with Windows 10, 8.1, 8, including both 32-bit and 64-bit vers
 SizeLink=~200 KB
 
 [Variables]
-Url1=http://www.imirin.com/files/16/Cleanmgr/1/Cleanmgr.zip
+Url1=https://www.mirinsoft.com/downloads/cleanmgrplus/cleanmgr+.zip
 
 [Links]
 Link1=GetPortable|%Url1%|D
