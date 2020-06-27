@@ -53,7 +53,7 @@ GetPortable:
 
 Detect: 
 		Link1=Detect|File system or registry key
-		Optional you can use the Detect command, to check wheter an package is Installed
+		Optional you can use the Detect command, to check whether an package is Installed
 
 
 ----------------------------------------------------------------------------------------------------------
